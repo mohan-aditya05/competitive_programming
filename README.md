@@ -17,3 +17,12 @@ Description of various files:
 * array_prob5.cpp- Count all distinct pairs with difference equal to k.
 
 * array_prob6.cpp- Trapping Rainwater problem
+
+### Vector Problems
+
+* vector_basics.cpp - Contains code to basics of vectors in C++
+* vector_prob1.cpp- Maximum Of K- size subarrays (Deque).
+
+### Map Problems
+
+* map_prob1.cpp- https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/snackdown-contest/
