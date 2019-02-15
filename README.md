@@ -1,6 +1,6 @@
 # competitive_programming
 
-Description of various files:
+## Description of various files:
 
 * linkedlist.cpp- Contains code to simple linked list.
 
@@ -18,6 +18,8 @@ Description of various files:
 
 * array_prob6.cpp- Trapping Rainwater problem
 
+* array_prob8.cpp- Leaders-in-an-array
+
 ### Vector Problems
 
 * vector_basics.cpp - Contains code to basics of vectors in C++
@@ -26,3 +28,7 @@ Description of various files:
 ### Map Problems
 
 * map_prob1.cpp- https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/snackdown-contest/
+
+### Deque Problems
+
+* deque.cpp- Maximum-of-all-subarrays-of-size-k
