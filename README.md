@@ -1,6 +1,6 @@
 # competitive_programming
 
-#### Hackerrank Profile - hackerrank.com/mohan_aditya05
+#### Hackerrank Profile - https://www.hackerrank.com/mohan_aditya05
 
 ## Description of various files:
 
